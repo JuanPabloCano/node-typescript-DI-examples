@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "tsc && node dist/index.js",
-    "dev:tsrynge": "ts-node-dev ./src/tsrynge/index.ts",
+    "dev:tsyringe": "ts-node-dev ./src/tsyringe/index.ts",
     "dev:diod": "ts-node-dev ./src/diod/index.ts",
     "dev:inversify": "ts-node-dev ./src/inversify/index.ts"
   },
